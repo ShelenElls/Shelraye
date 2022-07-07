@@ -1,3 +1,3 @@
 Hello i'm Shelen;
 Lover of Python and Javascript, with Django framework for Object Oriented Programming. 
-Front-end with both HTML5/CSS and React.
+Front-end with HTML5/CSS and React.
